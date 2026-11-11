@@ -30,7 +30,7 @@ Na svetlých plochách zachovaj vysoký kontrast textu. Zelenú používaj ako j
 - Sekundárna zelená `#76B729` sa používa na sekundárne akcie a zvýraznené či hover stavy.
 - Svetlé alebo biele tlačidlá používaj len tam, kde zostane zreteľný kontrast voči okoliu.
 - Použi mierne zaoblené rohy; tlačidlá nemajú pôsobiť ako kapsule. Veľkosť a vnútorné odsadenie majú pohodlne umožniť kliknutie.
-- Text tlačidla má byť krátky, konkrétny a dostatočne kontrastný. Hover a focus stav odlíš tmavším alebo svetlejším zeleným odtieňom, nie iba zmenou textu.
+- Text tlačidla má byť krátky, konkrétny a dostatočne kontrastný. Hover a focus stav odlíš tmavším alebo svetlejším zeleným odtieňom, nie iba zMarikau textu.
 - Zachovaj jasnú vizuálnu hierarchiu: jedno primárne tlačidlo pre hlavný krok, sekundárne akcie nech sú menej výrazné.
 
 ## Celkový vizuálny dojem
